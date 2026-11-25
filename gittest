@@ -1,0 +1,3 @@
+git add test_secret.py
+git commit -m "Test GitHub Push Protection"
+git push origin main
